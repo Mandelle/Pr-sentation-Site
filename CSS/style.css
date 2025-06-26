@@ -1,0 +1,100 @@
+header{
+margin:auto;
+border-width: 5px;
+border-style: solid;
+border-color: rgb(133, 133, 133);
+background-color:rgb(88, 88, 88);
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(41, 41, 41);
+}
+
+
+
+
+.logo {
+width: 50px;
+height: 50px;
+display: inline-block;
+}
+
+.logo img {
+width: 300px;
+height: 100px;
+display: inline-block;
+margin-left: 190px;
+}
+
+.lien {
+display: inline-block;
+margin-left: 450px;
+font-weight: bolder;
+font-size: large;
+position:relative;
+top:-35px;
+}
+
+.recherche {
+display: inline-block;
+margin-left: 450px;
+
+}
+
+a{
+display: inline-block;
+text-decoration: none;
+color: rgb(247, 247, 247);
+font-weight: bolder;
+font-size: large;
+}
+
+a:visited {
+color: rgb(255, 255, 255);
+}
+
+a:hover {
+color: rgb(255, 0, 0);
+}
+.titre {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+   margin-top: 10px;
+}
+
+.titrekingdom {
+    color: white;
+    font-size: 20px;
+    margin-top: -420px;
+    margin-left: 480px;
+
+}
+
+.textekingdom{
+    text-align:justify;
+    margin-left:480px;
+    margin-right:1100px;
+    color: white;
+    font-size: 18px;
+  
+}
+
+
+
+.kingdom img {
+    width: 280px;
+    height: 400px;
+    margin-top: 150px;
+    color:white;
+border-width: 5px;
+border-style: solid;
+display: inline-block;
+padding: 0%;
+margin-left: 180px;
+margin-top: 10px;
+}
+
+
