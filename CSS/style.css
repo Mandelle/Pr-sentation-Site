@@ -97,4 +97,82 @@ margin-left: 180px;
 margin-top: 10px;
 }
 
+.kingdomsynopsis {
+margin-top:20;
+margin-left:250;
+margin-right:560;
+border-width: 3px;
+border-style: solid;
+border-color: rgb(133, 133, 133);
+background-color:rgb(88, 88, 88);
+padding:0;
+}
 
+.kingdomimagesynopsis img {
+width: 280px;
+height: 400px;
+margin-top: 5px;
+margin-left: -30px;
+    color:white;
+border-width: 5px;
+border-style: solid;
+display: inline-block;
+padding: 0%;
+}
+
+.Kingdomsynopsisbordure {
+    margin-left: 250px;
+    text-align: justify;
+    color: white;
+    font-size: 18px;
+    margin-right: 560px;
+    border-width: 3px;
+border-style: solid;
+border-color: rgb(133, 133, 133);
+background-color:rgb(63, 63, 63);
+padding:50px;
+
+}
+
+.Kingdomtextesynopsis {
+    text-align: justify;
+    color: white;
+    font-size: 18px;
+    margin-left: 300px; 
+    margin-top:-390px;
+}
+
+.kingdomchapitres {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 560px;
+    border-width: 3px;
+    border-style: solid;
+  border-color: rgb(133, 133, 133);
+background-color:rgb(88, 88, 88);
+padding:0;
+ }
+
+ .kingdomchapitrestexte {
+    text-align: justify;
+    color: white;
+    font-size: 18px;
+    margin-left: 249px;
+    margin-right:560px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(133, 133, 133);
+    background-color:rgb(63, 63, 63);
+    padding:0px;
+}
+
+.chapitre841titre {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.kingdomchapitreimages{
+    text-align: center;
+}
