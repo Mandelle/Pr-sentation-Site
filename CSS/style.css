@@ -1,3 +1,5 @@
+/* Page acceuil */
+
 header{
 margin:auto;
 border-width: 5px;
@@ -48,7 +50,7 @@ display: inline-block;
 text-decoration: none;
 color: rgb(247, 247, 247);
 font-weight: bolder;
-font-size: large;
+font-size: 20px;
 }
 
 a:visited {
@@ -65,18 +67,20 @@ color: rgb(255, 0, 0);
    margin-top: 10px;
 }
 
+/* Kingdom */
+
 .titrekingdom {
     color: white;
     font-size: 20px;
     margin-top: -420px;
-    margin-left: 480px;
+    margin-left: 700px;
 
 }
 
 .textekingdom{
     text-align:justify;
-    margin-left:480px;
-    margin-right:1100px;
+    margin-left:700px;
+    margin-right:850px;
     color: white;
     font-size: 18px;
   
@@ -93,7 +97,7 @@ border-width: 5px;
 border-style: solid;
 display: inline-block;
 padding: 0%;
-margin-left: 180px;
+margin-left: 400px;
 margin-top: 10px;
 }
 
@@ -175,4 +179,47 @@ padding:0;
 
 .kingdomchapitreimages{
     text-align: center;
+}
+
+/* Vinland Saga */
+
+.vinlandsaga img {
+
+    width: 280px;
+    height: 400px;
+    color:white;
+border-width: 5px;
+border-style: solid;
+padding: 0%;
+margin-left: 1100px;
+margin-top: -74px;
+}
+
+.titrevinlandsaga {
+    text-align:justify;
+    margin-left:1400px;
+    margin-right:0px;
+    color: white;
+    font-size: 20px;
+    margin-top: -420px;
+}
+
+.vinlandsagasynopsis img {
+     width: 280px;
+    height: 400px;
+    color:white;
+border-width: 5px;
+border-style: solid;
+padding: 0%;
+margin-left: 1100px;
+margin-top: -280px;
+}
+
+.textevinlandsaga {
+   text-align:justify;
+    margin-left:1400px;
+    margin-right:200px;
+    color: white;
+    font-size: 18px;
+    margin-top: 27px;
 }
