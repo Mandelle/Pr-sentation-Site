@@ -15,8 +15,6 @@ body{
 }
 
 
-
-
 .logo {
 width: 50px;
 height: 50px;
@@ -102,9 +100,9 @@ margin-top: 10px;
 }
 
 .kingdomsynopsis {
-margin-top:20;
-margin-left:250;
-margin-right:560;
+margin-top:20px;
+margin-left:250px;
+margin-right:560px;
 border-width: 3px;
 border-style: solid;
 border-color: rgb(133, 133, 133);
@@ -212,7 +210,7 @@ border-width: 5px;
 border-style: solid;
 padding: 0%;
 margin-left: 1100px;
-margin-top: -295px;
+margin-top: -299px;
 }
 
 .textevinlandsaga {
@@ -225,9 +223,9 @@ margin-top: -295px;
 }
 
 .vinlandsagasynopsis {
-    margin-top:20;
-    margin-left:250;
-    margin-right:560;
+    margin-top:20px;
+    margin-left:250px;
+    margin-right:560px;
     border-width: 3px;
     border-style: solid;
     border-color: rgb(133, 133, 133);
@@ -344,9 +342,9 @@ margin-left: 400px;
 }
 
 .bluelocksynopsis {
-margin-top:20;
-margin-left:250;
-margin-right:560;
+margin-top:20px;
+margin-left:250px;
+margin-right:560px;
 border-width: 3px;
 border-style: solid;
 border-color: rgb(133, 133, 133);
